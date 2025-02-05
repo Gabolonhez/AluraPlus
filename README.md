@@ -8,6 +8,5 @@ Alura Plus é uma plataforma de assinatura de cursos online.
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
-
-`CSS`: Utilizado para estilização da interface do aplicativo.
+- `HTML`
+- `CSS`
